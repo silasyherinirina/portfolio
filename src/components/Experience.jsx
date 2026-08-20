@@ -1,7 +1,7 @@
 export default function Experience() {
     const experiences = [
         {
-            title: "plateforme BTP avec Laravel (API REST)",
+            title: "Stagiaire Développeur Backend Laravel – Eray Digital Antananarivo",
             date: "Juil 2026 – Août 2026",
             desc: " Développement du backend d'une plateforme BTP.",
         },

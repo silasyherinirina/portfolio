@@ -1,6 +1,11 @@
 export default function Experience() {
     const experiences = [
         {
+            title: "plateforme BTP avec Laravel (API REST)",
+            date: "Juil 2026 – Août 2026",
+            desc: " Développement du backend d'une plateforme BTP.",
+        },
+        {
             title: "Plateforme de recrutement (Laravel)",
             date: "Mars 2026",
             desc: "Développement d’une plateforme de publication d’offres et candidatures.",

@@ -1,6 +1,10 @@
 export default function Projects() {
     const projects = [
         {
+            name: "btp project",
+            link: "https://github.com/silasyherinirina/btp_project ",
+        },
+        {
             name: "Jobs App",
             link: "https://github.com/silasyherinirina/my_jobs_app",
         },

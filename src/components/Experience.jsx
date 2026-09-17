@@ -1,6 +1,11 @@
 export default function Experience() {
     const experiences = [
         {
+            title: "Projet de Master 2 — Développeur Full Stack & IA",
+            date: "2026",
+            desc: " Plateforme intelligente de gestion agricole pour les coopératives à Madagascar",
+        },
+        {
             title: "Stagiaire Développeur Backend Laravel – Eray Digital Antananarivo",
             date: "Juil 2026 – Août 2026",
             desc: " Développement du backend d'une plateforme BTP.",

@@ -1,6 +1,10 @@
 export default function Projects() {
     const projects = [
         {
+            name: "Agro mada",
+            link: "https://github.com/silasyherinirina/Agro_mada.git ",
+        },
+        {
             name: "btp project",
             link: "https://github.com/silasyherinirina/btp_project ",
         },
